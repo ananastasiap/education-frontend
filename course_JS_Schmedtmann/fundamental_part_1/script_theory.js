@@ -1,10 +1,10 @@
 // ! Comments parts where variables are the same
 /*
-// 9
+// ! 9 [Most basic info]
 let js = "amazing";
 console.log(40 - 3 - 3 - 3);
 
-// 10 [Values and Variables]
+// ! 10 [Values and Variables]
 console.log("Jonas");
 
 let firstName = "God";

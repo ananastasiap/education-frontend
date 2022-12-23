@@ -22,7 +22,7 @@ console.log(typeof population);
 console.log(typeof country);
 console.log(typeof language);
 
-// 13 let, const and var
+// ! 13 let, const and var
 let age = 30;
 age = 31; // mutated this variable
 console.log(age);
